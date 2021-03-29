@@ -19,7 +19,7 @@ function preload() {
   
 }
 function setup() {
-    createCanvas(displayWidth,displayHeight);
+    createCanvas(1300,650);
     
 
     logo = createSprite(displayWidth - 600, displayHeight-525);
